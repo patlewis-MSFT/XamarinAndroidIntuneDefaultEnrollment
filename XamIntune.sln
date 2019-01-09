@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamIntune.Android", "XamIntune\XamIntune.Android\XamIntune.Android.csproj", "{2E0A13A1-100A-4E4E-89C7-5B5906E4B231}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamIntune", "XamIntune\XamIntune\XamIntune.csproj", "{D5E72D03-9DE9-469F-B223-A1B837F6D533}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E0A13A1-100A-4E4E-89C7-5B5906E4B231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E0A13A1-100A-4E4E-89C7-5B5906E4B231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E0A13A1-100A-4E4E-89C7-5B5906E4B231}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2E0A13A1-100A-4E4E-89C7-5B5906E4B231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E0A13A1-100A-4E4E-89C7-5B5906E4B231}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E0A13A1-100A-4E4E-89C7-5B5906E4B231}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D5E72D03-9DE9-469F-B223-A1B837F6D533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E72D03-9DE9-469F-B223-A1B837F6D533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E72D03-9DE9-469F-B223-A1B837F6D533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E72D03-9DE9-469F-B223-A1B837F6D533}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6BD34CF-84DC-4381-A05E-808BF0632419}
+	EndGlobalSection
+EndGlobal
