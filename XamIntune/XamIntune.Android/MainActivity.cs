@@ -32,9 +32,7 @@ namespace XamIntune.Droid
 
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
             LoadApplication(new App());
-
-            //TODO: Add later....var mgr = DependencyService.Get<IMAMEnrollmentManager>();
-            //mgr.RegisterAccountForMAM("patlewis@patlewisintune.com");         
+   
         }
     }
 }
